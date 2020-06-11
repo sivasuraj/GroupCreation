@@ -1,0 +1,5 @@
+---
+applications:
+- name:    GroupCreation
+  random-route: true
+  memory:  128M
